@@ -1,6 +1,6 @@
 # Complementary
 
-![Gameplay](./gameplay.gif)
+![Gameplay](./.GitHubResources/gameplay.gif)
 
 A simple game where you have to alternate black and white in order to complete the levels. Check it out on [itch.io](https://aprecoma.itch.io/complementary).
 
